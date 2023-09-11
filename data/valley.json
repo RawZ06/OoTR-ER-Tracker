@@ -1,0 +1,8 @@
+{
+    "area": "Gerudo Valley",
+    "entrances": {
+        "GV Fortress Side -> Gerudo Fortress": {
+            "reverse": "Gerudo Fortress -> GV Fortress Side"
+        }
+    }
+}

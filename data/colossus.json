@@ -1,0 +1,8 @@
+{
+    "area": "Desert Colossus",
+    "entrances": {
+        "Desert Colossus -> Wasteland Near Colossus": {
+            "reverse": "Wasteland Near Colossus -> Desert Colossus"
+        }
+    }
+}

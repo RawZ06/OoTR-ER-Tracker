@@ -1,0 +1,11 @@
+{
+    "area": "Gerudo Fortress",
+    "entrances": {
+        "Gerudo Fortress -> GV Fortress Side": {
+            "reverse": "GV Fortress Side -> Gerudo Fortress"
+        },
+        "GF Outside Gate -> Wasteland Near Fortress": {
+            "reverse": "Wasteland Near Fortress -> GF Outside Gate"
+        }
+    }
+}

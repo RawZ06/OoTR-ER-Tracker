@@ -1,0 +1,11 @@
+{
+    "area": "Haunted Wasteland",
+    "entrances": {
+        "Wasteland Near Colossus -> Desert Colossus": {
+            "reverse": "Desert Colossus -> Wasteland Near Colossus"
+        },
+        "Wasteland Near Fortress -> GF Outside Gate": {
+            "reverse": "GF Outside Gate -> Wasteland Near Fortress"
+        }
+    }
+}
